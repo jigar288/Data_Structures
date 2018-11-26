@@ -24,10 +24,12 @@ Git Repo: https://github.com/jigar288/Balanced-Binary-Search-Trees
 
 ________________________________________________________________________
 
-________________________________________________________________________
+
 
 { Depth_First_Search_Maze }
 
 Brief: A C program that will find its way through a maze using the depth-first search algorithm
 
 Git Repo: https://github.com/jigar288/Depth_First_Search_Maze
+
+________________________________________________________________________
